@@ -11,6 +11,7 @@
 # ------------------------------------------------------------------------------------------- #
 # Eclipse-specific (https://github.com/github/gitignore/blob/master/Global/Eclipse.gitignore) #
 # ------------------------------------------------------------------------------------------- #
+*.pydevproject
 .metadata
 bin/**
 tmp/**
