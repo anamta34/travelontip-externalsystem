@@ -1,0 +1,14 @@
+http:
+  listener:
+    host: "localhost"
+    port: "8081"
+    path: "/travelOnTipCall/{serviceType}"
+    
+db:
+  oracle:
+    host: "localhost"
+    port: "1521"
+    user:  "dummy"
+    pwd:   "dummy"
+    service: "ORCLCDB.localdomain"
+    

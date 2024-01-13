@@ -1,0 +1,13 @@
+http:
+  listener:
+    host: "0.0.0.0"
+    port: "8082"
+    path: "/fastGocall/{serviceType}"
+    
+db:
+  oracle:
+    host: "localhost"
+    port: "1521"
+    user:  "dummy"
+    pwd:   "dummy"
+    service: "ORCLCDB.localdomain"
